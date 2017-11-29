@@ -1,2 +1,2 @@
 hello,git.
-me too.
+add coding: utf-8

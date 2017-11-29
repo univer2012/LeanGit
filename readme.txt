@@ -5,3 +5,4 @@ Git tracks changes.
 Creating a new branch is quick AND simple.
 add merge.
 add /usr/bin/env.
+add /usr/bin/env too.
